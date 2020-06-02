@@ -15,7 +15,7 @@ Multiple shared web terminals along with web RTC for CEH/Comptia+/RHCE/RHCS/LFCE
 
 <br />
 
-* Its good to pull the follwing images from dockerhub before proceeding: alpine, ubuntu, debian, kalilinux, centos, fedora
+* Its good to pull the following images from dockerhub before proceeding: alpine, ubuntu, debian, kalilinux, centos, fedora
 
 <br />
 
