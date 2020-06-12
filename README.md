@@ -23,7 +23,7 @@ Multiple shared web terminals along with web RTC for CEH/Comptia+/RHCE/RHCS/LFCE
 
 <br />
 
-* Install go dependancies
+* Install go dependencies
 
 <br />
 
